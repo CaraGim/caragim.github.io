@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Theme
+title: CARA.dev()
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://caragim.github.io/Moon"><b>Moon</b></a> We have to make our shoulders strong enough for somebody else to stand on.</center>
 
 ## Features
 * Minimal, you can focus on your content
