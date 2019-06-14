@@ -50,17 +50,13 @@ end
 <p>
 </p>
 
-### Advanced reading and Writing
+### Advanced reading and Writing<p>
 <p>
-    </p>
+    <p>
 #### Purpose
 <p>
-    </p>
-Create your own Reading and Writing program using the Ruby language. Submit to
-Doubtfire when complete.
+Create your own Reading and Writing program using the Ruby language.<p>
 <p>
-    </p>
-
 ##### Instruction
  Variables allow you to store values that can change in your program. When you declare a local<p>
 variable you are telling the computer to create a variable for use within the function or procedure.<p>
