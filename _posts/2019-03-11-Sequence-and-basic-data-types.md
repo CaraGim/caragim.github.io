@@ -50,11 +50,10 @@ end
 </p>
 
 ### Advanced reading and Writing
-#### Purpose
-<p>
+#### Purpose<p>
 Create your own Reading and Writing program using the Ruby language.<p>
 <p>
-##### Instruction
+##### Instruction<p>
  Variables allow you to store values that can change in your program. When you declare a local<p></p>
 variable you are telling the computer to create a variable for use within the function or procedure.<p></p>
 You must give the variable a name and keep in mind the type of data it will store.<p></p>
