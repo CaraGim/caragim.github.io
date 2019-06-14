@@ -18,9 +18,10 @@ a = gets
 b = gets
 puts "Outfut is " + a + b
 {% endhighlight %}
-
-
-
+<p>
+<p>
+<p>
+</p>
 ### Desk Checking: Bill total 
 #### Purpose
 Demonstrate an understanding of sequence in programming code and practice checking code.
@@ -42,11 +43,10 @@ def main
 	printf('Output the total_price is $%.2f', total_price)
 end
 {% endhighlight %}
-
-
-
-
-
+<p>
+<p>
+<p>
+</p>
 
 ### Advanced reading and Writing
 #### Purpose
@@ -63,6 +63,8 @@ To explore this topic, we will create a Terminal program that will:<p>
 ■ ask the user to enter their name, age, and weight in metres,<p>
 ■ calculate and output the year the user was born, and<p>
 ■ calculate and output the user’s height in inches<p>
+<p>
+</p>
 
 {% highlight ruby %}
 require 'date'
@@ -97,5 +99,8 @@ end
 main  # call the main procedure
 {% endhighlight %}
 
-
+<p>
+<p>
+<p>
+</p>
 
