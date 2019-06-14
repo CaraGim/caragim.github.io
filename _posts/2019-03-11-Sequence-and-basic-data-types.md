@@ -22,7 +22,7 @@ puts "Outfut is " + a + b
 <p>
 <p>
 </p>
-### Desk Checking: Bill total
+### Desk Checking: Bill total<p>
 #### Purpose <p>
 </p>
 Demonstrate an understanding of sequence in programming code and practice checking code.
@@ -49,11 +49,11 @@ end
 <p>
 </p>
 
-### Advanced reading and Writing
+### Advanced reading and Writing<p>
 #### Purpose<p>
 Create your own Reading and Writing program using the Ruby language.<p>
-<p>
 ##### Instruction<p>
+    </p>
  Variables allow you to store values that can change in your program. When you declare a local<p></p>
 variable you are telling the computer to create a variable for use within the function or procedure.<p></p>
 You must give the variable a name and keep in mind the type of data it will store.<p></p>
