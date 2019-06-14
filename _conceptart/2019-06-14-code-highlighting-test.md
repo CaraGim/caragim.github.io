@@ -9,6 +9,10 @@ comments: true
 
 oka..... 
 
+### Highlighted Code Blocks
+
+To modify styling and highlight colors edit `/assets/css/syntax.css`.
+
 {% highlight ruby %}
 
 puts "Enter the two number to set a data"
