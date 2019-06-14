@@ -22,8 +22,7 @@ puts "Outfut is " + a + b
 <p>
 <p>
 </p>
-### Desk Checking: Bill total <p>
-</p>
+### Desk Checking: Bill total
 #### Purpose <p>
 </p>
 Demonstrate an understanding of sequence in programming code and practice checking code.
@@ -50,25 +49,22 @@ end
 <p>
 </p>
 
-### Advanced reading and Writing<p>
-<p>
-    <p>
+### Advanced reading and Writing
 #### Purpose
 <p>
 Create your own Reading and Writing program using the Ruby language.<p>
 <p>
 ##### Instruction
- Variables allow you to store values that can change in your program. When you declare a local<p>
-variable you are telling the computer to create a variable for use within the function or procedure.<p>
-You must give the variable a name and keep in mind the type of data it will store.<p>
-The computer will then set aside space for you to store a value for that variable. <p>
-You can then write values to the variable and read values back.<p>
-To explore this topic, we will create a Terminal program that will:<p>
-■ ask the user to enter their name, age, and weight in metres,<p>
-■ calculate and output the year the user was born, and<p>
-■ calculate and output the user’s height in inches<p>
-<p>
-</p>
+ Variables allow you to store values that can change in your program. When you declare a local<p></p>
+variable you are telling the computer to create a variable for use within the function or procedure.<p></p>
+You must give the variable a name and keep in mind the type of data it will store.<p></p>
+The computer will then set aside space for you to store a value for that variable.<p></p>
+You can then write values to the variable and read values back.<p></p>
+To explore this topic, we will create a Terminal program that will:<p></p>
+■ ask the user to enter their name, age, and weight in metres,<p></p>
+■ calculate and output the year the user was born, and<p></p>
+■ calculate and output the user’s height in inches<p></p>
+<p></p>
 
 {% highlight ruby %}
 require 'date'
