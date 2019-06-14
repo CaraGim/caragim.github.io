@@ -22,8 +22,10 @@ puts "Outfut is " + a + b
 <p>
 <p>
 </p>
-### Desk Checking: Bill total 
-#### Purpose
+### Desk Checking: Bill total <p>
+</p>
+#### Purpose <p>
+</p>
 Demonstrate an understanding of sequence in programming code and practice checking code.
 
 {% highlight ruby %}
@@ -49,9 +51,15 @@ end
 </p>
 
 ### Advanced reading and Writing
+<p>
+    </p>
 #### Purpose
+<p>
+    </p>
 Create your own Reading and Writing program using the Ruby language. Submit to
 Doubtfire when complete.
+<p>
+    </p>
 
 ##### Instruction
  Variables allow you to store values that can change in your program. When you declare a local<p>
