@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: All arts
+title: All Posts
 excerpt: "A List of concept art"
 comments: false
 ---
