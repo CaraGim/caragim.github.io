@@ -52,7 +52,7 @@ end
 main
 {% endhighlight %}
 
-##### input function code
+#### input function
 <p>
 Hello User code call the function of 'input_function_code'. 
 <br>The codes are:
