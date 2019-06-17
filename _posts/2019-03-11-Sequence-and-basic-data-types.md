@@ -20,13 +20,14 @@ a = gets
 b = gets
 puts "Outfut is " + a + b
 {% endhighlight %}
-<p>
-### Desk Checking: Bill total
-</p>
 
+    
+### Desk Checking: Bill total
+
+<p>
    <br>
    <br>
-   
+ </p>
    
 #### Purpose
 
