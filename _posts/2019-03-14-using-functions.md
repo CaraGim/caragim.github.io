@@ -2,7 +2,7 @@
 layout: post
 title: Using Functions
 date: 2019-03-14
-excerpt: "In this task, change the Reading and Writing (Hello User) program to use functions to prompt and read in values."
+excerpt: "Change the Reading and Writing (Hello User) program to use functions to prompt and read in values."
 tags: [code, function]
 comments: true
 ---
@@ -54,7 +54,7 @@ main
 
 #### input function
 <p>
-Hello User code call the function of 'input_function_code'. 
+Hello User code call the function of 'input_function_code'▼ 
 <br>The codes are:
 {% highlight ruby %}
 def read_string prompt
