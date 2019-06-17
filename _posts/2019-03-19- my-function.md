@@ -2,7 +2,7 @@
 layout: post
 title: My Function
 date: 2019-03-19
-excerpt: "how to design and write code professionally in a structured/functional framework."
+excerpt: "Implement a function and use it to calculate a value based on user input."
 tags: [code, function]
 comments: true
 ---
