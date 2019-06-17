@@ -3,7 +3,7 @@ layout: post
 title: Sequence and basic data types
 date: 2019-03-11
 excerpt: "how to design and write code professionally in a structured/functional framework."
-tags: [sample post, code, highlighting]
+tags: [code, function]
 comments: true
 ---
 
