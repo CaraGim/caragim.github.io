@@ -10,7 +10,7 @@ comments: true
 
 
 To modify styling and highlight colors edit `/assets/css/syntax.css`.
-
+<p>
 ### Basic Reading Writhing
 {% highlight ruby %}
 puts "Enter the two number to set a data"
@@ -18,15 +18,11 @@ a = gets
 b = gets
 puts "Outfut is " + a + b
 {% endhighlight %}
-<p>
-<p>
-<p>
 </p>
-### Desk Checking: Bill total<p>
-#### Purpose <p>
-</p>
+<p>
+### Desk Checking: Bill total<br>
+#### Purpose<br>
 Demonstrate an understanding of sequence in programming code and practice checking code.
-
 {% highlight ruby %}
 def main
 	text = "Calculate the total_price:%.2f\n"
@@ -44,27 +40,22 @@ def main
 	printf('Output the total_price is $%.2f', total_price)
 end
 {% endhighlight %}
-<p>
-<p>
-<p>
 </p>
-
-### Advanced reading and Writing<p>
-#### Purpose<p>
-Create your own Reading and Writing program using the Ruby language.<p>
-##### Instruction<p>
-    </p>
- Variables allow you to store values that can change in your program. When you declare a local<p></p>
-variable you are telling the computer to create a variable for use within the function or procedure.<p></p>
-You must give the variable a name and keep in mind the type of data it will store.<p></p>
-The computer will then set aside space for you to store a value for that variable.<p></p>
-You can then write values to the variable and read values back.<p></p>
-To explore this topic, we will create a Terminal program that will:<p></p>
-■ ask the user to enter their name, age, and weight in metres,<p></p>
-■ calculate and output the year the user was born, and<p></p>
-■ calculate and output the user’s height in inches<p></p>
-<p></p>
-
+<p>
+### Advanced reading and Writing<br>
+#### Purpose<br>
+Create your own Reading and Writing program using the Ruby language.<br>
+##### Instruction<br>
+ Variables allow you to store values that can change in your program. When you declare a local<br>
+variable you are telling the computer to create a variable for use within the function or procedure.<br>
+You must give the variable a name and keep in mind the type of data it will store.<br>
+The computer will then set aside space for you to store a value for that variable.<br>
+You can then write values to the variable and read values back.<br>
+To explore this topic, we will create a Terminal program that will:<br>
+■ ask the user to enter their name, age, and weight in metres,<br>
+■ calculate and output the year the user was born, and<br>
+■ calculate and output the user’s height in inches<br>
+    
 {% highlight ruby %}
 require 'date'
 INCHES = 0.393701  # This is a global constant
@@ -97,9 +88,5 @@ end
 
 main  # call the main procedure
 {% endhighlight %}
-
-<p>
-<p>
-<p>
 </p>
 
