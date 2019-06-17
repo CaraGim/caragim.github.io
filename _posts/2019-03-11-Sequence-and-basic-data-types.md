@@ -19,9 +19,13 @@ b = gets
 puts "Outfut is " + a + b
 {% endhighlight %}
 </p>
+
 <p>
-### Desk Checking: Bill total<br>
-#### Purpose<br>
+    
+### Desk Checking: Bill total
+   
+#### Purpose
+   
 Demonstrate an understanding of sequence in programming code and practice checking code.
 {% highlight ruby %}
 def main
@@ -42,10 +46,14 @@ end
 {% endhighlight %}
 </p>
 <p>
-### Advanced reading and Writing<br>
-#### Purpose<br>
-Create your own Reading and Writing program using the Ruby language.<br>
-##### Instruction<br>
+    
+### Advanced reading and Writing
+
+#### Purpose
+   
+Create your own Reading and Writing program using the Ruby language.
+    <br>
+##### Instruction
  Variables allow you to store values that can change in your program. When you declare a local<br>
 variable you are telling the computer to create a variable for use within the function or procedure.<br>
 You must give the variable a name and keep in mind the type of data it will store.<br>
