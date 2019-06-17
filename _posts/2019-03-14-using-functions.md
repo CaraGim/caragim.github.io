@@ -2,7 +2,7 @@
 layout: post
 title: Using Functions
 date: 2019-03-14
-excerpt: "how to design and write code professionally in a structured/functional framework."
+excerpt: "In this task, change the Reading and Writing (Hello User) program to use functions to prompt and read in values."
 tags: [sample post, code, highlighting]
 comments: true
 ---
