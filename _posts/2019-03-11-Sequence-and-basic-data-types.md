@@ -11,6 +11,7 @@ comments: true
 
 To modify styling and highlight colors edit `/assets/css/syntax.css`.
 <p>
+    
 ### Basic Reading Writhing
 {% highlight ruby %}
 puts "Enter the two number to set a data"
@@ -23,9 +24,9 @@ puts "Outfut is " + a + b
 <p>
     
 ### Desk Checking: Bill total
-   
+   <br>
 #### Purpose
-   
+<br>
 Demonstrate an understanding of sequence in programming code and practice checking code.
 {% highlight ruby %}
 def main
@@ -48,9 +49,9 @@ end
 <p>
     
 ### Advanced reading and Writing
-
+<br>
 #### Purpose
-   
+   <br>
 Create your own Reading and Writing program using the Ruby language.
     <br>
 ##### Instruction
