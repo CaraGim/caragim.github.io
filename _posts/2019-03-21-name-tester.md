@@ -18,6 +18,7 @@ loops to output custom messages to users.
 ■ Check if the name entered is your name.<br>
 ■ If the name is your name or your tutor’s name output the message 'Awesome name!'<br>
 ■ Otherwise output the silly name message:<br>
+<br>
  ▼Design the process
 {% highlight ruby %}
 def main
@@ -26,6 +27,7 @@ def main
 end
 main
 {% endhighlight %}
+<br>
  ▼Create the funtion for read user name
 {% highlight ruby %}
 def readName(prompt)
@@ -33,6 +35,7 @@ def readName(prompt)
  value = gets.chomp
 end
 {% endhighlight %}
+<br>
  ▼Create the function for verifying data
 {% highlight ruby %}
 def boolean(prompt)
