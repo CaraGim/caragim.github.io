@@ -12,7 +12,7 @@ comments: true
 To modify styling and highlight colors edit `/assets/css/syntax.css`.
 <p>
     
-### Basic Reading Writhing
+###Basic Reading Writhing
 {% highlight ruby %}
 puts "Enter the two number to set a data"
 a = gets
@@ -23,9 +23,9 @@ puts "Outfut is " + a + b
 
 <p>
     
-### Desk Checking: Bill total
+###Desk Checking: Bill total
    <br>
-#### Purpose
+####Purpose
 <br>
 Demonstrate an understanding of sequence in programming code and practice checking code.
 {% highlight ruby %}
