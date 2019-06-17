@@ -12,7 +12,8 @@ comments: true
 To modify styling and highlight colors edit `/assets/css/syntax.css`.
 <p>
     
-###Basic Reading Writhing
+### Basic Reading Writhing
+
 {% highlight ruby %}
 puts "Enter the two number to set a data"
 a = gets
@@ -23,11 +24,15 @@ puts "Outfut is " + a + b
 
 <p>
     
-###Desk Checking: Bill total
+### Desk Checking: Bill total
+
    <br>
-####Purpose
+   
+#### Purpose
+
 <br>
 Demonstrate an understanding of sequence in programming code and practice checking code.
+
 {% highlight ruby %}
 def main
 	text = "Calculate the total_price:%.2f\n"
@@ -46,15 +51,22 @@ def main
 end
 {% endhighlight %}
 </p>
+
+
 <p>
     
 ### Advanced reading and Writing
+
 <br>
+
 #### Purpose
+
    <br>
 Create your own Reading and Writing program using the Ruby language.
     <br>
+    
 ##### Instruction
+
  Variables allow you to store values that can change in your program. When you declare a local<br>
 variable you are telling the computer to create a variable for use within the function or procedure.<br>
 You must give the variable a name and keep in mind the type of data it will store.<br>
