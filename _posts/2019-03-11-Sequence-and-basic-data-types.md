@@ -28,7 +28,7 @@ puts "Outfut is " + a + b
     
     
 ### Desk Checking: Bill total
-
+</p>
 
    <br>
    <br>
