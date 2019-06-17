@@ -2,14 +2,12 @@
 layout: post
 title: Sequence and basic data types
 date: 2019-03-11
-excerpt: "how to design and write code professionally in a structured/functional framework."
+excerpt: "Learn about variables and to desk check and test a sequence of statements using variables."
 tags: [code, function]
 comments: true
 ---
 
 
-
-To modify styling and highlight colors edit `/assets/css/syntax.css`.
 <p></p>
 ### Basic Reading Writhing
 
