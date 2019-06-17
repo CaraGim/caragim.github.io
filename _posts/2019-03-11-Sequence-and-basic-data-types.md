@@ -11,10 +11,8 @@ comments: true
 
 To modify styling and highlight colors edit `/assets/css/syntax.css`.
 <p>
-    
-    
 ### Basic Reading Writhing
-
+</p>
 
 {% highlight ruby %}
 puts "Enter the two number to set a data"
