@@ -1,6 +1,3 @@
-
-
-
 ---
 layout: post
 title: Using Functions
@@ -25,11 +22,9 @@ require './input_functions'
 
 INCHES = 0.393701  # This is a global constant
 
-# Do you need something here?
-
-# Insert into the following your hello_user code
-# from task 1.3P and modify it to use the functions
-# in my_functions
+#Insert into the following your hello_user code
+#from task 1.3P and modify it to use the functions
+#in my_functions
 
 def printAnswer(displayPrompt,prompt)
    prompt = prompt + "!"
@@ -37,11 +32,6 @@ def printAnswer(displayPrompt,prompt)
 end
 
 def main
-	 # Copy in your code from your completed
-	 # hello_user Task 1.3 P. Then modify it to
-	 # use the code in my_functions.
-   # use read_string for all strings (this will
-   # remove all whitespace)
    name = read_string( "Please enter your name: ")
    displayPrompt = printAnswer("Your name is: ",name)
    name = read_string("what is your family name:  ")
@@ -62,7 +52,6 @@ end
 main
 {% endhighlight %}
 
-</p>
 ##### input function code
 <p>
 Hello User code call the function of 'input_function_code'. 
@@ -84,4 +73,6 @@ def read_boolean prompt
 	end
 end
 {% endhighlight %}
+</p>
+
 
