@@ -7,7 +7,7 @@ tags: [code, function]
 comments: true
 ---
 <p>
-Procedures are a great tool for capturing the instructions needed to perform a task,<br>
+  Procedures are a great tool for capturing the instructions needed to perform a task,<br>
 but sometimes you need to be able to capture the instructions needed to calculate a value.<br>
 Using functions you can now create artefacts to encapsulate the steps needed to calculate a value.
 </p>
@@ -21,7 +21,7 @@ Prompt the user to enter his or her name and birth year.<br>
 ■ Call the read_boolean(prompt) function from input_functions.rb to prompt the user to enter whether he or she is a supporter of Brexit.<br>
 ■ Print out whether the user supports Brexit or not based on the result of calling the read_boolean(prompt) function.<br>
 </p>
- Create the functions for read a user data and response.
+ ▼Create the functions for read a user data and response.
 {% highlight ruby %}
 def get_string prompt
 	puts prompt
@@ -42,7 +42,7 @@ def get_boolean(name,year_born)
 end
 {% endhighlight %}
 
- Create a function for calculate user age when Trump elected.
+ ▼Create a function for calculate user age when Trump elected.
 {% highlight ruby %}
 def calculateUserAge(year_born)
   age_when_trump_elected = YEAR_TRUMP_ELECTED - year_born.to_i
