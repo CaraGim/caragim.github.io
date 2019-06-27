@@ -29,8 +29,8 @@ https://www.binaryhexconverter.com/decimal-to-hex-converter<br>
 The co-ordinate system works as follows:<br>
 
  Reference<br>
- <img src = "/assets/img/3_3 instruction.png" width="419" height="267" ><br>
- ![Reference Image](/assets/img/3_3 instruction.png)
+ <img src = "https://github.com/CaraGim/caragim.github.io/blob/master/assets/img/3_3%20instruction.PNG?raw=true" width="419" height="267" ><br>
+ ![Reference Image](/assets/img/3_3 instruction.png)  
  Format: ![Alt Text](url)
 
 {% highlight ruby %}
