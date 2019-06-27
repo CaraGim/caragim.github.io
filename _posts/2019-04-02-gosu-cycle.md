@@ -16,7 +16,7 @@ Modify the tasks in the Gosu cycle update() and draw() methods.
 ■ Add code into the draw() method that will draw a shape (square or circle of any visible colour) at the y coordinate of 30 and x coordinate of shape_x.<br>
 <br>
 ◈Build program structure roughly<br>
-{% highlight ruby %}
+{% highlight ruby %}<br>
 class GameWindow < Gosu::Window
 
   def initialize
@@ -38,8 +38,8 @@ window.show<br>
 <br>
 ◈ Initialize the elements: window width and height size and a caption.
 ◈ It also possible to any variables to be used.
-◈ This is procedure i.e the return value is 'undefined'.
-{% highlight ruby %}
+◈ This is procedure i.e the return value is 'undefined'.<br>
+{% highlight ruby %}<br>
  def initialize
     super 200, 135, false
     self.caption = "Gosu Cycle Example"
@@ -58,7 +58,7 @@ window.show<br>
   <br>
   ◈ Put any work you want done in update.
   ◈ This is a procedure i.e the return value is 'undefined'.<br>
-  {% highlight ruby %}
+  {% highlight ruby %}<br>
    def update
   	puts "1. In update. Sleeping for one second\n"
     @cycle += 1 # add one to the current value of cycle
@@ -70,7 +70,7 @@ window.show<br>
   <br>
   ◈ The following method is called when you press a mouse.
   ◈ Button or key.<br>
-  {% highlight ruby %}
+  {% highlight ruby %}<br>
    def button_down(id)
     puts "In Button Down " + id.to_s
   end
@@ -79,7 +79,7 @@ window.show<br>
   <br>
   ◈ Draw (or Redraw) the window
   ◈ This is procedure i.e the return value is 'undefined'.<br>
-  {% highlight ruby %}
+  {% highlight ruby %}<br>
   def draw
     # Draws an image with an x, y and z
     #(z determines if it sits on or under other things that are drawn)
