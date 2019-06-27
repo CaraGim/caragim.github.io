@@ -29,15 +29,15 @@ See here to work out HEX values:<br>
 https://www.binaryhexconverter.com/decimal-to-hex-converter<br>
 The co-ordinate system works as follows:<br>
 
-<img = >
-<img = >
+#### Reference
+![](assets/img/3_3 instruction.PNG)
 
 {% highlight ruby %}
 require 'rubygems'
 require 'gosu'
 require './circle'
 
-# The screen has layers: Background, middle, top
+#The screen has layers: Background, middle, top
 module ZOrder
   BACKGROUND, MIDDLE, TOP = *0..2
 end
@@ -48,23 +48,23 @@ class DemoWindow < Gosu::Window
   end
 
   def draw
-    # see www.rubydoc.info/github/gosu/gosu/Gosu/Color for colours
+    #see www.rubydoc.info/github/gosu/gosu/Gosu/Color for colours
     draw_quad(0, 0, 0xff_ffffff, 800, 0, 0xff_ffffff, 0, 600, 0xff_ffffff, 800, 600, 0xff_ffffff, ZOrder::BACKGROUND)
     draw_quad(250, 180, Gosu::Color.argb(0xff_808080), 400, 180, Gosu::Color.argb(0xff_808080), 250, 350, Gosu::Color.argb(0xff_808080), 400, 350, Gosu::Color.argb(0xff_808080), ZOrder::TOP)
     draw_triangle(200, 200, Gosu::Color::RED, 450, 200, Gosu::Color::RED, 325, 90, Gosu::Color::RED, ZOrder::TOP, mode=:default)
-    # draw_rect works a bit differently:
+    #draw_rect works a bit differently:
     #Gosu.draw_rect(300, 200, 100, 50, Gosu::Color::BLACK, ZOrder::TOP, mode=:default)
    
-    # Circle parameter - Radius
+    #Circle parameter - Radius
     img2 = Gosu::Image.new(Circle.new(50))
-    # Image draw parameters - x, y, z, horizontal scale (use for ovals), vertical scale (use for ovals), colour
-    # Colour - use Gosu::Image::{Colour name} or .rgb({red},{green},{blue}) or .rgba({alpha}{red},{green},{blue},)
-    # Note - alpha is used for transparency.
-    # drawn as an elipse (0.5 width:)
+    #Image draw parameters - x, y, z, horizontal scale (use for ovals), vertical scale (use for ovals), colour
+    #Colour - use Gosu::Image::{Colour name} or .rgb({red},{green},{blue}) or .rgba({alpha}{red},{green},{blue},)
+    #Note - alpha is used for transparency.
+    #drawn as an elipse (0.5 width:)
     img2.draw(0, 270, ZOrder::MIDDLE, 6.4, 2.5, Gosu::Color::GREEN)
-    # drawn as a red circle:
+    #drawn as a red circle:
     ##img2.draw(300, 50, ZOrder::TOP, 1.0, 1.0, 0xff_ff0000)
-    # drawn as a red circle with transparency:
+    #drawn as a red circle with transparency:
     ##img2.draw(300, 250, ZOrder::TOP, 1.0, 1.0, 0x64_ff0000)
     
   end
@@ -73,5 +73,6 @@ end
 DemoWindow.new.show
 {% endhighlight %}
 
-
+Result : <br>
+![](assets/img/t3_3screenshot.JPG)
 
