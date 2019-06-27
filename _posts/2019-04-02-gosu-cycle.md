@@ -33,7 +33,7 @@ class GameWindow < Gosu::Window
 end
 window = GameWindow.new
 window.show
-{% end highlight %}
+{% endhighlight %}
 <br>
 <br>
 ◈ Initialize the elements: window width and height size and a caption.
