@@ -22,10 +22,8 @@ To explore this topic, we will modify a Terminal program that will, when complet
 the records from files. The functionality of this code is basically correct, but the code can<br>
 be improved in design and implementation, these are the modifications you will make.<br>
 2. Make the following modifications the basic_read_write.rb program so that it:<br>
-<blockquote>
 • Uses a loop in read_data_from_file, with the loop controlled by the number at the start of the file.<br>
 • Improve the functional decomposition by removing as many lines of code from main as possible, yet retaining good structure.<br>
-</blockquote>
 </blockquote>
 
 1. Open a File and start to write the data.
