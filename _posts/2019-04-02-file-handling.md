@@ -18,7 +18,7 @@ To explore this topic, we will modify a Terminal program that will, when complet
 ■ Print each record that is read (as they are read).<br>
 ■ Use the code provided (from this task’s resources in Doubtfire) to get started, using this code complete the following:
 
-<style="padding-left: 40px; text-indent: -40px;">
+//<style="padding-left: 40px; text-indent: -40px;">
 
 1. Open and look at the code in the Resources for the basic code for reading and writing<br>
 the records from files. The functionality of this code is basically correct, but the code can<br>
