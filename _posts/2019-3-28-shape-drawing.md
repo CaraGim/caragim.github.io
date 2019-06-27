@@ -30,8 +30,6 @@ The co-ordinate system works as follows:<br>
 
  Reference<br>
  <img src = "https://github.com/CaraGim/caragim.github.io/blob/master/assets/img/3_3%20instruction.PNG?raw=true" width="419" height="267" ><br>
- ![Reference Image](/assets/img/3_3 instruction.png)  
- Format: ![Alt Text](url)
 
 {% highlight ruby %}
 require 'rubygems'
@@ -75,6 +73,6 @@ DemoWindow.new.show
 {% endhighlight %}
 
 Result : <br>
-<img src = "assets/img/t3_3screenshot.JPG" width="812" height="589" >
+<img src = "https://github.com/CaraGim/caragim.github.io/blob/master/assets/img/t3_3screenshot.JPG?raw=true" width="406" height="264.5" >
 ![](assets/img/t3_3screenshot.jpg)
 
