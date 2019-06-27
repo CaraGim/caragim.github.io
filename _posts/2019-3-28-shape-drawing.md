@@ -28,8 +28,8 @@ See here to work out HEX values:<br>
 https://www.binaryhexconverter.com/decimal-to-hex-converter<br>
 The co-ordinate system works as follows:<br>
 
- Reference
- <img src = "assets/img/3_3 instruction.PNG" width="419" height="267" >
+ Reference<br>
+ <img src = "assets/img/3_3 instruction.png" width="419" height="267" >
 
 {% highlight ruby %}
 require 'rubygems'
@@ -74,5 +74,5 @@ DemoWindow.new.show
 
 Result : <br>
 <img src = "assets/img/t3_3screenshot.JPG" width="812" height="589" >
-![](assets/img/t3_3screenshot.JPG)
+![](assets/img/t3_3screenshot.jpg)
 
