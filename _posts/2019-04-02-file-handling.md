@@ -10,6 +10,7 @@ comments: true
 ### File Handling
 #### Instruction
 
+<div style="width: 200px; padding-left: 40px; text-indent: -40px">
 Files allow you to store data persistently. <br>
 In this task you will write a simple file reading program to read multiple lines using a loop printing each line read to the terminal screen.<br>
 To explore this topic, we will modify a Terminal program that will, when complete:<br>
@@ -17,6 +18,7 @@ To explore this topic, we will modify a Terminal program that will, when complet
 ■ Open a file and loop according to the number of records to read in each record.<br>
 ■ Print each record that is read (as they are read).<br>
 ■ Use the code provided (from this task’s resources in Doubtfire) to get started, using this code complete the following:
+</div >
 
 <div style="width: 200px; padding-left: 40px; text-indent: -40px">
 
@@ -25,7 +27,6 @@ The functionality of this code is basically correct, but the code can be improve
 2. Make the following modifications the basic_read_write.rb program so that it:<br>
 • Uses a loop in read_data_from_file, with the loop controlled by the number at the start of the file.<br>
 • Improve the functional decomposition by removing as many lines of code from main as possible, yet retaining good structure.<br>
-</ style >
 </div >
 
 
