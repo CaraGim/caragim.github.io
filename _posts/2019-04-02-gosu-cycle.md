@@ -15,7 +15,7 @@ Modify the tasks in the Gosu cycle update() and draw() methods.
 ■ Add code into the update() method that will add 10 to shape_x.<br>
 ■ Add code into the draw() method that will draw a shape (square or circle of any visible colour) at the y coordinate of 30 and x coordinate of shape_x.<br>
 <br>
-◈Build program structure roughly
+◈Build program structure roughly<br>
 {% highlight ruby %}
 class GameWindow < Gosu::Window
 
@@ -32,7 +32,7 @@ class GameWindow < Gosu::Window
   end
 end
 window = GameWindow.new
-window.show
+window.show<br>
 {% endhighlight %}
 <br>
 <br>
@@ -57,7 +57,7 @@ window.show
   <br>
   <br>
   ◈ Put any work you want done in update.
-  ◈ This is a procedure i.e the return value is 'undefined'.
+  ◈ This is a procedure i.e the return value is 'undefined'.<br>
   {% highlight ruby %}
    def update
   	puts "1. In update. Sleeping for one second\n"
@@ -69,7 +69,7 @@ window.show
   <br>
   <br>
   ◈ The following method is called when you press a mouse.
-  ◈ Button or key.
+  ◈ Button or key.<br>
   {% highlight ruby %}
    def button_down(id)
     puts "In Button Down " + id.to_s
@@ -78,7 +78,7 @@ window.show
   <br>
   <br>
   ◈ Draw (or Redraw) the window
-  ◈ This is procedure i.e the return value is 'undefined'.
+  ◈ This is procedure i.e the return value is 'undefined'.<br>
   {% highlight ruby %}
   def draw
     # Draws an image with an x, y and z
