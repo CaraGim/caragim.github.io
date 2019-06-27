@@ -29,7 +29,8 @@ https://www.binaryhexconverter.com/decimal-to-hex-converter<br>
 The co-ordinate system works as follows:<br>
 
  Reference<br>
- <img src = "assets/img/3_3 instruction.png" width="419" height="267" >
+ <img src = "/assets/img/3_3 instruction.png" width="419" height="267" >
+ ![Reference Image](/assets/img/3_3 instruction.png)
 
 {% highlight ruby %}
 require 'rubygems'
