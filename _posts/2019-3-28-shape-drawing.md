@@ -9,14 +9,13 @@ comments: true
 
 ### Shape drawing
 #### Instruction
- For this task you will create a program that <br>
-draws a scene using primitive shapes (triangles, rectangles, and circles).<br>
+ For this task you will create a program that draws a scene using primitive shapes (triangles, rectangles, and circles).<br>
 The goal of this exercise is to learn a little about how to create a program using either <br>
 the Gosu or Texplay libraries (but note – texplay is not installed in the labs).<br>
 Gosu is a development environment that makes it easy to create programs that <br>
 use graphics, sounds, animations, networking, and other aspects relevant <br>
 to creating small interactive games.
-<br>
+<br><br>
 ■ Use the following site to select colours for the circle (which uses RGB values):<br>
 https://www.rapidtables.com/web/color/RGB_Color.html<br>
 Or<br>
@@ -24,13 +23,13 @@ Use the Gosu colour constants:<br>
 https://www.rubydoc.info/github/gosu/gosu/master/Gosu/Color<br>
 eg: a Red circle with a radius of 50 pixels would be produced by the two statements:<br>
 img = Gosu::Image.new(Circle.new(50)) img.draw(200, 200, ZOrder::TOP, 0.5, 1.0, Gosu::Color::RED)<br>
-Or you could use the HEX values: img.draw(300, 50, ZOrder::TOP, 1.0, 1.0, 0xff_ff0000)<br>
+Or <br> you could use the HEX values: img.draw(300, 50, ZOrder::TOP, 1.0, 1.0, 0xff_ff0000)<br><br>
 See here to work out HEX values:<br>
 https://www.binaryhexconverter.com/decimal-to-hex-converter<br>
 The co-ordinate system works as follows:<br>
 
-#### Reference
-![](assets/img/3_3 instruction.PNG)
+ Reference
+ <img src = "assets/img/3_3 instruction.PNG" width="419" height="267" >
 
 {% highlight ruby %}
 require 'rubygems'
@@ -74,5 +73,6 @@ DemoWindow.new.show
 {% endhighlight %}
 
 Result : <br>
+<img src = "assets/img/t3_3screenshot.JPG" width="812" height="589" >
 ![](assets/img/t3_3screenshot.JPG)
 
