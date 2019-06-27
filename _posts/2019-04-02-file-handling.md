@@ -18,19 +18,18 @@ To explore this topic, we will modify a Terminal program that will, when complet
 ■ Print each record that is read (as they are read).<br>
 ■ Use the code provided (from this task’s resources in Doubtfire) to get started, using this code complete the following:
 
-//<div style="padding-left: 40px; text-indent: -40px">
 <div style="width: 200px; padding-left: 40px; text-indent: -40px">
 
-1. Open and look at the code in the Resources for the basic code for reading and writing<br>
-the records from files. The functionality of this code is basically correct, but the code can<br>
-be improved in design and implementation, these are the modifications you will make.<br>
+1. Open and look at the code in the Resources for the basic code for reading and writingthe records from files.<br> 
+The functionality of this code is basically correct, but the code can be improved in design and implementation, these are the modifications you will make.<br>
 2. Make the following modifications the basic_read_write.rb program so that it:<br>
 • Uses a loop in read_data_from_file, with the loop controlled by the number at the start of the file.<br>
 • Improve the functional decomposition by removing as many lines of code from main as possible, yet retaining good structure.<br>
-</div>
+</ style >
+</div >
 
 
-1. Open a File and start to write the data.
+First. Open a File and start to write the data.
 {% highlight ruby %}
 def writingfileConfim()
   a_file = File.new("listOfName.txt", "w") 
@@ -43,7 +42,7 @@ def writingfileConfim()
 end
 {% endhighlight %}
 
-2. Writes the number of lines then each line as a string.
+Second. Writes the number of lines then each line as a string.
 {% highlight ruby %}
  def write_data_to_file(a_file)
   count = a_file.puts.to_i
@@ -57,7 +56,7 @@ end
   end
 {% endhighlight %}
 
-3. Open a File for reading data.
+Thirds. Open a File for reading data.
 {% highlight ruby %}
 def readingFileConfirm()
   a_file = File.new("listOfName.txt", "r")
@@ -71,7 +70,7 @@ end
 {% endhighlight %}
 
 
-4. Reads in each line. It uses a loop which repeats according to the number or lines in the File<br>which is given in the first line of th File.
+Fifth. Reads in each line. It uses a loop which repeats according to the number or lines in the File<br>which is given in the first line of th File.
 {% highlight ruby %}
  def read_data_from_file(a_file)
   count = a_file.gets.to_i # count = 0
@@ -87,7 +86,7 @@ end
 end
 {% endhighlight %}
 
-5. Excute
+Sixth. Excute
 {% highlight ruby %}
 def main
   writingfileConfim()
