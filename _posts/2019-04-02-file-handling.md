@@ -10,7 +10,7 @@ comments: true
 ### File Handling
 #### Instruction
 
-<div style="width: 200px; padding-left: 40px; text-indent: -40px">
+<div style="width: 500px; padding-left: 40px; text-indent: -40px">
 Files allow you to store data persistently. <br>
 In this task you will write a simple file reading program to read multiple lines using a loop printing each line read to the terminal screen.<br>
 To explore this topic, we will modify a Terminal program that will, when complete:<br>
@@ -20,7 +20,7 @@ To explore this topic, we will modify a Terminal program that will, when complet
 ■ Use the code provided (from this task’s resources in Doubtfire) to get started, using this code complete the following:
 </div >
 
-<div style="width: 200px; padding-left: 40px; text-indent: -40px">
+<div style="width: 500px; padding-left: 40px; text-indent: -40px">
 
 1. Open and look at the code in the Resources for the basic code for reading and writingthe records from files.<br> 
 The functionality of this code is basically correct, but the code can be improved in design and implementation, these are the modifications you will make.<br>
