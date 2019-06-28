@@ -14,11 +14,9 @@ Modify the tasks in the Gosu cycle update() and draw() methods.
 ■ Add a variable in the initialize() method called shape_x with the initial value of zero.<br>
 ■ Add code into the update() method that will add 10 to shape_x.<br>
 ■ Add code into the draw() method that will draw a shape (square or circle of any visible colour) at the y coordinate of 30 and x coordinate of shape_x.<br>
-<br>
 ◈Build program structure roughly<br>
-{% highlight ruby %}<br>
+{% highlight ruby %}
 class GameWindow < Gosu::Window
-
   def initialize
   end
  
@@ -36,10 +34,10 @@ window.show<br>
 {% endhighlight %}
 <br>
 <br>
-◈ Initialize the elements: window width and height size and a caption.
-◈ It also possible to any variables to be used.
+◈ Initialize the elements: window width and height size and a caption.<br>
+◈ It also possible to any variables to be used.<br>
 ◈ This is procedure i.e the return value is 'undefined'.<br>
-{% highlight ruby %}<br>
+{% highlight ruby %}
  def initialize
     super 200, 135, false
     self.caption = "Gosu Cycle Example"
@@ -56,9 +54,9 @@ window.show<br>
   {% endhighlight %}
   <br>
   <br>
-  ◈ Put any work you want done in update.
+  ◈ Put any work you want done in update.<br>
   ◈ This is a procedure i.e the return value is 'undefined'.<br>
-  {% highlight ruby %}<br>
+  {% highlight ruby %}
    def update
   	puts "1. In update. Sleeping for one second\n"
     @cycle += 1 # add one to the current value of cycle
@@ -68,18 +66,18 @@ window.show<br>
   {% endhighlight %}
   <br>
   <br>
-  ◈ The following method is called when you press a mouse.
+  ◈ The following method is called when you press a mouse.<br>
   ◈ Button or key.<br>
-  {% highlight ruby %}<br>
+  {% highlight ruby %}
    def button_down(id)
     puts "In Button Down " + id.to_s
   end
   {% endhighlight %}
   <br>
   <br>
-  ◈ Draw (or Redraw) the window
+  ◈ Draw (or Redraw) the window.<br>
   ◈ This is procedure i.e the return value is 'undefined'.<br>
-  {% highlight ruby %}<br>
+  {% highlight ruby %}
   def draw
     # Draws an image with an x, y and z
     #(z determines if it sits on or under other things that are drawn)
