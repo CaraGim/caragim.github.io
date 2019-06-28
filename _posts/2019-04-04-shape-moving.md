@@ -17,7 +17,7 @@ You must enhance the code provided as follows:<br>
 2.The shape does not move out of the window area<br>
 
 A.<br>
-Fix the following code so that:
+◈Fix the following code so that:
 The shape also can be moved up and down the shape does not move out of the window area.
 {% highlight ruby %}
 require 'gosu'
@@ -46,7 +46,7 @@ window.show
 {% endhighlight %}
 <br>
 B.<br>
-Initialize creates a window with a width an a height and a caption. It also sets up any variables to be used.<br>
+◈Initialize creates a window with a width an a height and a caption. It also sets up any variables to be used.<br>
 This is procedure i.e the return value is 'undefined'.
 {% highlight ruby %}
 def initialize
@@ -65,8 +65,8 @@ def initialize
 {% endhighlight %}
 <br>
 C.<br>
-Put any work you want done in update.
-his is a procedure i.e the return value is 'undefined'.
+◈Put any work you want done in update.
+◈His is a procedure i.e the return value is 'undefined'.
 {% highlight ruby %}
 def update
     @cycle += 1
@@ -97,8 +97,8 @@ def update
 {% endhighlight %}
 <br>
 D.<br>
-Draw (or Redraw) the window
-This is procedure i.e the return value is 'undefined'
+◈Draw (or Redraw) the window.
+◈This is procedure i.e the return value is 'undefined'.
 {% highlight ruby %}
   def draw
     @font.draw("Cycle count: #{@cycle}", 10, 10, z = ZOrder::TOP, 1.0, 1.0, Gosu::Color::WHITE)
@@ -107,7 +107,8 @@ This is procedure i.e the return value is 'undefined'
 {% endhighlight %}
 <br>
 
-E.Entire code ::
+E.<br>
+◈Entire code ::
 <br>
 {% highlight ruby %}
 require 'gosu'
