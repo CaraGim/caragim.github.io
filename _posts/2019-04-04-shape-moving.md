@@ -108,7 +108,7 @@ This is procedure i.e the return value is 'undefined'
 <br>
 
 E.Entire code ::
-
+<br>
 {% highlight ruby %}
 require 'gosu'
 
