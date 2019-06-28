@@ -10,13 +10,13 @@ comments: true
 ###Shape Moving
 Modify the provided code in the Gosu cycle update() method.
 ####Instruction
-<p>
+
 Use the code provided (from this task’s resources in Doubtfire) to get started.<br>
 You must enhance the code provided as follows:<br>
 1.The shape also can be moved up and down<br>
 2.The shape does not move out of the window area<br>
-    </p>
-A.
+
+A.<br>
 Fix the following code so that:
 The shape also can be moved up and down the shape does not move out of the window area.
 {% highlight ruby %}
@@ -45,7 +45,7 @@ window.show
 
 {% endhighlight %}
 <br>
-B.
+B.<br>
 Initialize creates a window with a width an a height and a caption. It also sets up any variables to be used.<br>
 This is procedure i.e the return value is 'undefined'.
 {% highlight ruby %}
@@ -64,7 +64,7 @@ def initialize
   end
 {% endhighlight %}
 <br>
-C.
+C.<br>
 Put any work you want done in update.
 his is a procedure i.e the return value is 'undefined'.
 {% highlight ruby %}
@@ -96,7 +96,7 @@ def update
   end
 {% endhighlight %}
 <br>
-D.
+D.<br>
 Draw (or Redraw) the window
 This is procedure i.e the return value is 'undefined'
 {% highlight ruby %}
