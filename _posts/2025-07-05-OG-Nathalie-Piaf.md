@@ -14,9 +14,9 @@ comments: true
 <a href="https://docs.google.com/document/u/0/d/e/2PACX-1vScxqPBJgQh-8PB82FrtfuTJol9a_6uCxrqyNFKUMERAb0H5X9j6OfcyQ_v2bydPqFhf4xAZlqMTF5M/pub?pli=1">Read the Google Docs of Nathalie Piaf</a>
 <br><br>
 
-<img src="https://github.com/CaraGim/caragim.github.io/blob/3569ab9b1495d1aaf23e4858e2d6db2bed93b236/assets/img/2025-07-05-OG-Nathalie-Piaf.jpeg" alt="nathalie info">
+<img src="https://github.com/CaraGim/caragim.github.io/blob/3569ab9b1495d1aaf23e4858e2d6db2bed93b236/assets/img/2025-07-05-OG-Nathalie-Piaf.jpeg" alt="nathalie info-url"><br><br>
 
-<img src="/assets/img/2025-07-05-OG-Nathalie-Piaf.jpeg" alt="nathalie info, folder"><br><br>
+<img src="/assets/img/2025-07-05-OG-Nathalie-Piaf.jpeg" alt="nathalie info-folder"><br><br>
 
 
 
