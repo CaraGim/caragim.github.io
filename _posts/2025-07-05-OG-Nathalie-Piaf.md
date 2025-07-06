@@ -13,5 +13,5 @@ comments: true
 ■ Google Docs url(web published)<br>
 [https://docs.google.com/document/u/0/d/e/2PACX-1vScxqPBJgQh-8PB82FrtfuTJol9a_6uCxrqyNFKUMERAb0H5X9j6OfcyQ_v2bydPqFhf4xAZlqMTF5M/pub?pli=1]<br><br>
 
-![Alt text](assets/img/2025-07-05-OG-Nathalie-Piaf.jpeg)
+![image](caragim.github.io/assets/img/2025-07-05-OG-Nathalie-Piaf.jpeg)
 
