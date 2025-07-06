@@ -1,4 +1,12 @@
 
+Basically it's built with HTML syntax
+
+■ Header
+### header
+#### second header
+
+■ change the line
+<br>
 
 ■ hyperlink: 
 referring url
@@ -14,4 +22,6 @@ you can find the path of the file if you see next to file name after [caragim.gi
 
 example:
 //<img src="_posts/photo.png" alt="My photo">
+<br>
+<br>
 
