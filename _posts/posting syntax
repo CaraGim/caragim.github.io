@@ -1,0 +1,17 @@
+
+
+■ hyperlink: 
+referring url
+//<a href="https://www.wikipedia.org" target="_blank">Visit Wikipedia</a>
+
+referring repository address
+//<a href="_posts/photo.png">View the photo</a>
+
+
+■ attach the image
+In this webpage, it seems only works with the repository folder address.
+you can find the path of the file if you see next to file name after [caragim.github.io/] part.
+
+example:
+//<img src="_posts/photo.png" alt="My photo">
+
