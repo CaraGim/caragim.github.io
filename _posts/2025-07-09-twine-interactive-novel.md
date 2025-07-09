@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Kid, you're living in a slant world.
+title: Kid, you're living in a slant world
 date: 2022-04-11
-excerpt: "Interactive novel: When you have the dream to liberation but you have to face with the reality "
+excerpt: "Interactive novel- When you have the dream to liberation but you have to face with the reality "
 tags: [writing, interactive-novel]
 comments: true
 ---
