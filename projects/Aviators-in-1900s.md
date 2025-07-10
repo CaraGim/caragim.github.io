@@ -4,26 +4,27 @@ title: Aviators in inter-war era
 excerpt: "1차 세계대전 이후 전간기, 활발하게 항공과학 기술이 발달되어 많은 비행사들이 활약을 했다. 해당 비행사들의 역사를 반영한 게임을 기획하고자 프로젝트를 기획한다."
 comments: false
 ---
-
-
-
-<img src="assets/img/aviators/Game Machanism-KeyObject_page-0001.jpg" alt="Game mechanism, key object">
+<br>
+<br>
+</br>
+<p>
+<img src="https://github.com/CaraGim/caragim.github.io/blob/34e41349e570f32a46d3d209e071e3314a429126/assets/img/aviators/Game%20Machanism-KeyObject_page-0001.jpg" alt="Game mechanism, key object">
 -Game mechanism, key object
-
+<br></br>
  해당 게임 진행 메커니즘은 각 비행사들의 역사가 반영된 '방'의 소품처럼 내러티브 배경과 가능한 긴밀하게 연결되어 플레이어에게 '왜 이 소품이 이곳에 있는가, 왜 이런 방식으로 작동되는가'에 대한 대답을 줘야한다.
+</p>
 
+1. 키 아이템
+    1) 구형 비행 고글(렌즈들)
+    2) Sikorsky s-43 미니어처, 비행기록(로그북)<br>
+	3) 빈티지 altimeter<br>
+	4) 구형 컴퓨터 마더보드(electric circuit)<br>
 
-<키 아이템>
-	1. 구형 비행 고글(렌즈들)
-	2. Sikorsky s-43 미니어처, 비행기록(로그북)
-	3. 빈티지 altimeter
-	4. 구형 컴퓨터 마더보드(electric circuit)
-<다른 예시>
-	5. 형사의 crazy board
-	6. 할머니의 서랍
-	7. 은퇴한 연합 회장의 편지
-	8. 밀회 장소였던 버려진 교회
-
+2. 다른 예시
+	5) 형사의 crazy board<br>
+	6) 할머니의 서랍<br>
+	7) 은퇴한 연합 회장의 편지<br>
+	8) 밀회 장소였던 버려진 교회<br>
 
 비행사 Aida: 고글
 	- 안구뱅크를 설립
@@ -32,9 +33,10 @@ comments: false
 
 비행사 Susana: Sikorsky s-43 미니어처, 로그북 ....
 
-<img src="assets/img/aviators/Aviators summary_props_environment_Narrative_page-0001.jpg" alt="aviator's profile and each key object of them">
+<br><br>
+<img src="https://github.com/CaraGim/caragim.github.io/blob/34e41349e570f32a46d3d209e071e3314a429126/assets/img/aviators/Aviators%20summary_props_environment_Narrative_page-0001.jpg" alt="aviator's profile and each key object of them">
 -aviator's profile and each key object of them
-
+</br>
 ■ 요약
 
 <비행사: 비행업적>
@@ -60,10 +62,10 @@ Susana 또한 4천 마일이라는 긴 거리를 비행완주 해내며 Emilia E
 이런 비행 업적을 고려하여, 레벨 디자인은 비행사들의 역사적인 특성을 담아내어 개인의 독특한 업적과 당대의 분위기를 반영할 수 있다.
 예) Ana Branger 업적을 담아낸 방은 다른 비행사보다 가장 높은 층에 있어야 할 것.
 
-
- <img src="assets/img/aviators/LevelDesign_FirstAttempt_page-0001.jpg" alt="평면 레벨디자인">
+<br><br><br>
+ <img src="https://github.com/CaraGim/caragim.github.io/blob/34e41349e570f32a46d3d209e071e3314a429126/assets/img/aviators/LevelDesign_FirstAttempt_page-0001.jpg" alt="평면 레벨디자인">
 - 평면디자인
-
+</br>
 날짜: 내가 몽골리안 소고기 덮밥을 먹었던 날
 수정:2024년 7월 23일에 "flying free" Cecilia저- 씬을 완성함
 -플레이어는 비행사의 역사기록을 경험할 것이고 이는 Cecilia의 관점에서 책을 써내듯이 스토리가 마무리 될 것이다. 
@@ -74,10 +76,11 @@ Susana 또한 4천 마일이라는 긴 거리를 비행완주 해내며 Emilia E
 각 방의 위치와 플레이어의 예상된 path는 각각 비행사들의 역사적인 타임라인과 비행여정을 간접 경험할 수 있도록 디자인 한다.
 예시) Aida는 페루에서 아메리카 대륙을 가로질러 미국에 도착하는 비행을 해냈기에 Aida의 역사를 반영한 방은 북쪽에 위치한다.
 
+<br><br><br>
 
-<img src="https://github.com/CaraGim/caragim.github.io/blob/5bc946f48816fb4b425b7bc0a9670c544fd8c72a/assets/img/aviators/LevelDesign_SecondAttempt_page-0002.jpg" alt="레벨디자인,시나리오,메커니즘">
+<img src="https://github.com/CaraGim/caragim.github.io/blob/34e41349e570f32a46d3d209e071e3314a429126/assets/img/aviators/LevelDesign_SecondAttempt_page-0002.jpg" alt="레벨디자인,시나리오,메커니즘">
 (isometric design 2picies)
-
+</br>
 플레이어가 탐험할 레벨디자인, 각각의 '방' 위치와 예상되는 플레이어의 path는 비행사들의 역사적인 타임라인과 비행여정(출발지-도착지)을 고려해야 한다.
 이러한 디자인 설계는 플레이어에게 각각의 비행사들의 여정과 경험을 간접적으로 체험할 수 있는 것을 목표로 한다.
 
@@ -87,22 +90,22 @@ Susana 또한 4천 마일이라는 긴 거리를 비행완주 해내며 Emilia E
 Aida de Ascota가 '소셜 엘리트'였다는 사실을 반영할 방으로, 악세서리 보관을 위한 상반신 마네퀸 모형과 화장대, 거울이 달린 옷장이 있을 것.
 해당 비행사를 상징할 키 아이템 이자 퍼즐 아이템인 [빈티지 고글]과 [A로부터의 편지]가 숨겨져 있을 것.
 
-1) 탈출 시나리오: 플레이어는 편지를 [이곳]에서 찾을 것이고, 
+    1) 탈출 시나리오: 플레이어는 편지를 [이곳]에서 찾을 것이고, 
 플레이어는 고글을 찾아 마네퀸의 얼굴에 씌우면 '딸깍'하는 소리와 함께
 다음 스테이지로 넘어가기 위한 비밀번호를 풀 수 있는 힌트가 적힌 종이를 얻게 된다.
 *[빈티지 고글]은 비행사 Aida가 가족이 바라는 좋은 혼사를 위해 숨겨야 했던 사실-비행경험-을 반영하여, 커다란 결혼사진 액자뒤에 만들어둔 벽 속의 작은 공간에 숨겨두었다.
 그러므로, 편지 내용은 해당 비행사의 역사적 스토리가 반영된 방에서는 이들의 이야기와 비슷한 내용이 될 것. 비행사 Aida의 경우에는, '생각없던 결혼 때문에 재능을 포기해야했던 케이스'가 편지의 주된 내용이 될 것이다.
 
-2) 방 디자인
+    2) 방 디자인
 플레이어는 [A로부터의 편지]를 먼저 읽을 것이며, 성공적으로 엔코딩된 메세지를 해석할 한 뒤에 [키 아이템]을 찾고서 퍼즐을 풀어낸다;
-3) 아이템 상호작용 순서
+    3) 아이템 상호작용 순서
 편지 -> 웨딩 초상화 -> 빈티지 고글 -> 마네퀸 
 
 2. 2층 : 비행사 Susana Ferrari Billinghurst
 1) 방 디자인: 플레이어가 비행사의 방에 들어가면 다른 편지를 찾아야만 한다.
 해당 비행사의 방의 테마는 비행사 Susana가 살아있을 적에 일어났던 역사적 사건- Hidenburg(1937)- 과 긴 복도같은 방의 구조로 Susana의 업적중에 하나인 -flight across atlantic ocean(4,000 miles)- 을 반영한다.
 
-2) 탈출 시나리오: 플레이어는 2층 방을 탐험하면서 비행사가 경험했던,
+    2) 탈출 시나리오: 플레이어는 2층 방을 탐험하면서 비행사가 경험했던,
 당대 역사적인 재해와 해양을 가로지르는 긴 비행여정을 간접적으로 느끼도록 [유리로 만들어진 다리]를 가로질러 건넌다.
 
 유리 다리에 금이 가 있어 마치 아슬아슬한 인상을 주어 재해를 간접경험하기
@@ -110,14 +113,19 @@ vs 견고하되 바다가 유리다리의 밑에 있어 Susana의 비행여정�
 
 플레이어가 "대양을 떠다니며 건너는 경험"을 하는동안,
 Hidenburg재해를 다룬 [반복되는 라디오 음성]이 계속해서 재생되며 키 아이템 [S-43 silkosky 미니어처]와 [로그북]을 찾아낸다.
-
-3) 아이템 상호작용 순서
+    3) 아이템 상호작용 순서
 편지 -> 라디오 음성 -> S-43 silkosky 미니어처-> log book
 
 3. 3층: (작업중)
 
+<br>
+<br>
+</br>
 
-<img src="assets/img/aviators/AestheticExperience_page-0001.jpg" alt="2D로 할 것인지 3d 로 할 것인지 브레인스토밍">
+
+
+
+<img src="https://github.com/CaraGim/caragim.github.io/blob/34e41349e570f32a46d3d209e071e3314a429126/assets/img/aviators/AestheticExperience_page-0001.jpg" alt="2D로 할 것인지 3d 로 할 것인지 브레인스토밍">
 -2D로 할 것인지 3d 로 할 것인지?
 
 ■ 미학적 경험
