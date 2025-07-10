@@ -75,7 +75,7 @@ Susana 또한 4천 마일이라는 긴 거리를 비행완주 해내며 Emilia E
 예시) Aida는 페루에서 아메리카 대륙을 가로질러 미국에 도착하는 비행을 해냈기에 Aida의 역사를 반영한 방은 북쪽에 위치한다.
 
 
-<img src="assets/img/aviators/LevelDesign_SecondAttempt_page-0002.jpg" alt="레벨디자인,시나리오,메커니즘">
+<img src="https://github.com/CaraGim/caragim.github.io/blob/5bc946f48816fb4b425b7bc0a9670c544fd8c72a/assets/img/aviators/LevelDesign_SecondAttempt_page-0002.jpg" alt="레벨디자인,시나리오,메커니즘">
 (isometric design 2picies)
 
 플레이어가 탐험할 레벨디자인, 각각의 '방' 위치와 예상되는 플레이어의 path는 비행사들의 역사적인 타임라인과 비행여정(출발지-도착지)을 고려해야 한다.
